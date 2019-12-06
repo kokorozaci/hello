@@ -2,3 +2,4 @@
 New 
 Новая строка
 Hello Git
+Hello, Git rebase!
